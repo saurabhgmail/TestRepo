@@ -1,3 +1,3 @@
 ﻿// See https://aka.ms/new-console-template for more information
-Console.WriteLine("Version changed : 5");
+Console.WriteLine("Version changed : 6");
 
